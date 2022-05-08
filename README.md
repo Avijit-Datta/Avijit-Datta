@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Avijit-Datta
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on a Company as Web Developer
+- 📫 How to reach me gamil - avyjyt00@gmail.com
