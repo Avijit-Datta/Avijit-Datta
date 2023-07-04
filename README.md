@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit-datta&label=Profile%20views&color=0e75b6&style=flat" alt="avijit-datta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/avijit49404773" target="blank"><img src="https://img.shields.io/twitter/follow/avijit49404773?logo=twitter&style=for-the-badge" alt="avijit49404773" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avyjyt" target="blank"><img src="https://img.shields.io/twitter/follow/avyjyt?logo=twitter&style=for-the-badge" alt="avijit49404773" /></a> </p>
 
 - 🔭 I’m currently working on a Micro Job Posting Website like Fiverr [OnMarket.ai](https://onmarket.ai/)
 
