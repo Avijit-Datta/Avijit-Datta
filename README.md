@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a Micro Job Posting Website like Fiverr [OnMarket.ai](https://onmarket.ai/)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to collaborate with **a Digital Agency for long term work**
 
