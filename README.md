@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **App Development**
 
-- 👨‍💻 All of my projects are available at [avijitadtta.dev](https://dev-avijitdatta.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [avijitadtta.dev](https://www.avijitdatta.com)
 
 - 📝 I regularly write articles on [avijitdatta.dev](https://dev-avijitdatta.pantheonsite.io/)
 
