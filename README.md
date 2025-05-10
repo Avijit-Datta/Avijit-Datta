@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **App Development**
 
-- 👨‍💻 All of my projects are available at [avijitadtta.dev](https://www.avijitdatta.com)
+- 👨‍💻 All of my projects are available at [My Website](https://www.avijitdatta.com)
 
-- 📝 I regularly write articles on [avijitdatta.dev](https://dev-avijitdatta.pantheonsite.io/)
+- 📝 I regularly write articles on [avijitdatta.com](https://dev-avijitdatta.pantheonsite.io/)
 
 - 💬 Ask me about **Front End Development and WordPress Development**
 
-- 📫 How to reach me **avyjyt00@gmail.com**
+- 📫 How to reach me - **avyjyt00@gmail.com** [Upwork](https://www.upwork.com/freelancers/~017a41cf60b51b32c7) [My Website](https://www.avijitdatta.com)
 
 - ⚡ Fun fact **I've started coding as fun now it's the Oxygen of my life! xD**
 
