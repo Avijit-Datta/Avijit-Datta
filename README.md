@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avyjyt" target="blank"><img src="https://img.shields.io/twitter/follow/avyjyt?logo=twitter&style=for-the-badge" alt="avijit49404773" /></a> </p>
 
-- 🔭 Check my Top Rated Freelancer Profile on [Upwork] (https://www.upwork.com/freelancers/~017a41cf60b51b32c7)
+- 🔭 Check my Top Rated Freelancer Profile on [Upwork](https://www.upwork.com/freelancers/~017a41cf60b51b32c7)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
