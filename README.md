@@ -1,13 +1,13 @@
 ![MasterHead](https://www.subratadeybd.com/wp-content/uploads/2023/07/Avijit-Datta-2000-×-600px.png)
 <h1 align="center">Hi 👋, I'm Avijit Datta</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A Top Rated Web Developer on Upwork from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-503x512-mega3xxj.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit-datta&label=Profile%20views&color=0e75b6&style=flat" alt="avijit-datta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/avyjyt" target="blank"><img src="https://img.shields.io/twitter/follow/avyjyt?logo=twitter&style=for-the-badge" alt="avijit49404773" /></a> </p>
 
-- 🔭 I’m currently working on a Micro Job Posting Website like Fiverr [OnMarket.ai](https://onmarket.ai/)
+- 🔭 Check my Top Rated Freelancer Profile on [Upwork] (https://www.upwork.com/freelancers/~017a41cf60b51b32c7)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
